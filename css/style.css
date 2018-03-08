@@ -1,0 +1,46 @@
+body{
+  background-position:cover;
+  width:100%;
+  background-color:black;
+  height:100%;
+  background-repeat:no-repeat;
+  background-size:cover;
+  padding:0px;
+  margin:0px;
+}
+#weatherbox{
+  text-align:center;
+  background:black;
+  border:solid white 5px;
+  border-radius:50%;
+  margin-left:30%;
+  margin-right:30%;
+  margin-top:5%;
+  margin-bottom:5%;
+  color:white;
+  padding-top:35px;
+  padding-bottom:0px;
+  font-size:50px;
+  font-family:Arial;
+  }
+#units{
+  color:#66F;
+  font-size:40px;
+  background:none;
+  margin-left:10px;
+}
+#icon{
+  width:150px;
+  height:150px;
+}
+#weather{
+  color:#888;
+  font-size:60px;
+  font-weight:bold;
+  margin-bottom:15px;
+}
+.jumbotron{
+  font-size:80px;
+  text-align:center;
+  padding-top:40px;
+}
