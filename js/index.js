@@ -32,7 +32,7 @@ document.getElementById("icon").src=url;
             break;
           case "mist":bgsrc="https://i.ytimg.com/vi/jtWtv8SXDLA/maxresdefault.jpg";
             break;
-          case "clear sky":bgsrc="http://wpnature.com/wp-content/uploads/2016/08/forest-beautiful-sunny-day-green-tree-live-wallpapers-download.jpg";
+          case "clear sky":bgsrc="https://s3.envato.com/files/227251019/preview.jpg";
             break;
           default:bgsrc="https://grist.files.wordpress.com/2013/11/clouds.jpg?w=1024&h=576&crop=1";
         }
